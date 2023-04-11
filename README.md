@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Somnath Mukherjee/@joy6543
-- 👀 I’m interested in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
-- 🌱 I’m currently pursuing Masters in Electrical and Computer Science Engineering at University of Washington
-- 💞️ I’m looking for Fall/Winter 2022 Internship opportunities.
+- 👀 Interested in Machine Learning, Deep Learning, Computer Vision and Natural Language Processing.
+- 🌱 Masters in Electrical and Computer Science Engineering at University of Washington
+- 💞️ Looking for new opportunities.
 - 📫 How to reach me mukherjeesomnath7@gmail.com
 
 <!---
